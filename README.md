@@ -23,7 +23,7 @@ Or install it yourself as:
 ```ruby
   var url = '/templates/create';
 ```
-改为要上传的服务器地址．
+* 改为要上传的服务器地址．
 ### 后台
 ```ruby
   def create
@@ -54,7 +54,8 @@ Or install it yourself as:
   end
 ```
 	
-
+## Reference
+* http://www.see-source.com/blog/300000033/395
 ## Contributing
 
 1. Fork it
